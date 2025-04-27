@@ -19,10 +19,10 @@
           </a-form-item>
         </a-col>
         <a-col :span="24">
-          <a-form-item label='病因' v-bind="formItemLayout">
+          <a-form-item label='申请内容' v-bind="formItemLayout">
             <a-textarea :rows="6" v-decorator="[
             'cause',
-             { rules: [{ required: true, message: '请输入病因!' }] }
+             { rules: [{ required: true, message: '请输入申请内容!' }] }
             ]"/>
           </a-form-item>
         </a-col>

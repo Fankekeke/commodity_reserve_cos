@@ -32,7 +32,7 @@
         <a-col :span="8"><b>申请单号：</b>
           {{ medicationData.code }}
         </a-col>
-        <a-col :span="8"><b>病因：</b>
+        <a-col :span="8"><b>申请内容：</b>
           {{ medicationData.cause ? medicationData.cause : '- -' }}
         </a-col>
         <a-col :span="8"><b>出具人：</b>

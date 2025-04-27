@@ -25,7 +25,7 @@
         </a-col>
       </a-row>
       <a-row :gutter="10" style="font-size: 13px;font-family: SimHei" v-if="pharmacyInfo != null">
-        <a-col :span="8"><b>营业时间：</b>
+        <a-col :span="8"><b>仓库开放时间：</b>
           {{ pharmacyInfo.businessHours }}
         </a-col>
         <a-col :span="8"><b>仓库编号：</b>

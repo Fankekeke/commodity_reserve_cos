@@ -46,7 +46,7 @@ export default {
           height: 300
         },
         title: {
-          text: '十天内各家订单数量统计',
+          text: '十天内各仓库出库数量统计',
           align: 'left'
         },
         plotOptions: {
@@ -89,7 +89,7 @@ export default {
           height: 300
         },
         title: {
-          text: '十天内各家订单收益统计',
+          text: '十天内各仓库出库收益统计',
           align: 'left'
         },
         plotOptions: {

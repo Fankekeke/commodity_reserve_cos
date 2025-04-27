@@ -19,7 +19,7 @@
           </a-form-item>
         </a-col>
         <a-col :span="24">
-          <a-form-item label='病因' v-bind="formItemLayout">
+          <a-form-item label='申请内容' v-bind="formItemLayout">
             <a-textarea :rows="6" disabled v-model="purchaseData.cause"/>
           </a-form-item>
         </a-col>

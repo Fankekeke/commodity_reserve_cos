@@ -130,7 +130,7 @@ export default {
         title: '联系方式',
         dataIndex: 'phone'
       }, {
-        title: '收获地址',
+        title: '收货地址',
         dataIndex: 'address'
       }, {
         title: '省份',

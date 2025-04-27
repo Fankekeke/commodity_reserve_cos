@@ -57,14 +57,14 @@
           </a-form-item>
         </a-col>
         <a-col :span="4">
-          <a-form-item label='营业时间'>
+          <a-form-item label='仓库开放时间'>
             <a-input v-decorator="[
             'businessHours'
             ]"/>
           </a-form-item>
         </a-col>
         <a-col :span="4">
-          <a-form-item label='法人姓名'>
+          <a-form-item label='负责人'>
             <a-input v-decorator="[
             'legalPerson'
             ]"/>

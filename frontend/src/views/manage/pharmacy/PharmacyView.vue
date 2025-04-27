@@ -24,7 +24,7 @@
           <span v-if="pharmacyData.businessStatus == 1" style="color: green">营业中</span>
           <span v-if="pharmacyData.businessStatus == 2" style="color: red">歇业</span>
         </a-col>
-        <a-col :span="8"><b>法人姓名：</b>
+        <a-col :span="8"><b>负责人：</b>
           {{ pharmacyData.legalPerson }}
         </a-col>
         <a-col :span="8"><b>联系电话：</b>
@@ -33,7 +33,7 @@
       </a-row>
       <br/>
       <a-row style="padding-left: 24px;padding-right: 24px;">
-        <a-col :span="8"><b>营业时间：</b>
+        <a-col :span="8"><b>仓库开放时间：</b>
           {{ pharmacyData.businessHours }}
         </a-col>
         <a-col :span="8"><b>创建时间：</b>

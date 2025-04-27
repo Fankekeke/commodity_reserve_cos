@@ -210,7 +210,7 @@ export default {
           }
         }
       }, {
-        title: '营业时间',
+        title: '仓库开放时间',
         dataIndex: 'businessHours',
         customRender: (text, row, index) => {
           if (text !== null) {

@@ -15,7 +15,7 @@
             </a-col>
             <a-col :md="6" :sm="24">
               <a-form-item
-                label="病因"
+                label="申请内容"
                 :labelCol="{span: 5}"
                 :wrapperCol="{span: 18, offset: 1}">
                 <a-input v-model="queryParams.checkIssuer"/>
@@ -159,7 +159,7 @@ export default {
         title: '申请单号',
         dataIndex: 'code'
       }, {
-        title: '病因',
+        title: '申请内容',
         dataIndex: 'cause'
       }, {
         title: '用户名称',
@@ -168,7 +168,7 @@ export default {
         title: '电子邮箱',
         dataIndex: 'mail'
       }, {
-        title: '收获地址',
+        title: '收货地址',
         dataIndex: 'address'
       }, {
         title: '出具人',
