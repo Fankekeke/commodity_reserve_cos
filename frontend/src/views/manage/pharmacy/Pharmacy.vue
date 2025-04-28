@@ -23,7 +23,7 @@
             </a-col>
             <a-col :md="6" :sm="24">
               <a-form-item
-                label="法人代表"
+                label="负责人"
                 :labelCol="{span: 5}"
                 :wrapperCol="{span: 18, offset: 1}">
                 <a-input v-model="queryParams.legalPerson"/>
@@ -165,7 +165,7 @@ export default {
         dataIndex: 'address',
         scopedSlots: { customRender: 'addressShow' }
       }, {
-        title: '法人代表',
+        title: '负责人',
         dataIndex: 'legalPerson',
         customRender: (text, row, index) => {
           if (text !== null) {
