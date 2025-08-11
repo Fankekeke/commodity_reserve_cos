@@ -37,6 +37,10 @@ WebStorm OR VScode 编译器 [https://www.jianshu.com/p/d63b5bae9dff]
 admin
 1234qwer
 
+[药店]
+fank
+1234qwer
+
 ###### 管理员：
 公告管理 、药品管理 、库存统计 、物流信息 、订单详情 、订单评价 、订单信息 、缴费记录 、仓库管理 、仓库库存 、员工管理 、客户管理 、数据统计 、销售排行 、管理员管理 、供应采购 、供应商管理 、药品申请 、药品采购 、库房预警 、销售统计 、采购物流。
 
@@ -48,6 +52,14 @@ admin
 
 |  |  |
 |---------------------|---------------------|
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/f8bfd2b5-597b-41b0-8c47-86eb682e6b8d.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/9c6fa76e-fe37-4175-b720-961630edcf38.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/ea64b8ef-77b4-4984-9494-956c458cccab.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/7dc0de7d-1996-40e5-acdc-b610379bbdbf.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/e4a861ca-c643-4e25-ab72-b9c0189ef8f5.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/6b43399b-1091-4198-a50d-068db321cf80.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/d057d7d1-3827-4ccb-a57a-c1e8a1f5bcbc.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/6b57cd2c-f85a-4c8d-b9d7-9fdde269eeba.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/c890b7d7-6f2b-4b9e-b745-64ac55da8fb8.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/4ea1f528-778b-4e70-bbe7-77857bdcbc68.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/ab12a016-fa34-418c-8b58-44b5f922ec54.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/02b6ad42-3c8f-46fa-9bf3-918eadb6a312.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/a87c892a-e5ed-44a7-95e8-13bcfbb932d5.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1f9801dd-b8ce-4c58-a415-b57c220bd3e7.png) |
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/485713e4-ca5d-4db7-b690-77bd1694c334.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/f09ca0ba-f1bc-4e3f-914d-d3958b9b9aaf.png) |
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/work/936e9baf53eb9a217af4f89c616dc19.png) |
 
 #### 演示视频
